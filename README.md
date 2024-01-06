@@ -9,7 +9,6 @@
     - 분류 : KNN, SVM, Multi-class Classification,Logistic Regression
     - 분류 & 회귀 :  Decision Tree, Ensemble Learning
       
-
 - 비지도학습
     - 차원축소 : PCA
     - 클러스터링 : k-Means Clustering
@@ -17,7 +16,9 @@
 ## Deep Learning
 [DL](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/DL)
 - 23.12.29 ~ 24.1.3
+- Neural Network, CNN, RNN
 
 ## Reinforcement Learning
 [RL](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/RL)
 - 24.1.4 ~ 24.1.5
+- Introduction, Markov Decision Process (Dynamic Programming Approaches), Monte-Carlo RL (Bootstrapping Approaches), Temporal-Difference RL (Bootstrapping Approaches), Deep Q-Learning
