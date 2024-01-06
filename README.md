@@ -21,4 +21,4 @@
 ## Reinforcement Learning
 [RL](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/RL)
 - 24.1.4 ~ 24.1.5
-- Introduction, Markov Decision Process (Dynamic Programming Approaches), Monte-Carlo RL (Bootstrapping Approaches), Temporal-Difference RL (Bootstrapping Approaches), Deep Q-Learning
+- Introduction, Markov Decision Process, Monte-Carlo RL, Temporal-Difference RL, Deep Q-Learning
