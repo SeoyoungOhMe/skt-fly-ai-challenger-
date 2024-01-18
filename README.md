@@ -22,3 +22,11 @@
 [RL](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/RL)
 - 24.1.4 ~ 24.1.5
 - Markov Decision Process, Monte-Carlo RL, Temporal-Difference RL, Deep Q-Learning
+
+## DevOps
+[DevOps](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/DevOps)
+- 24.1.8 ~ 
+- Git
+- GitHub
+- Jenkins
+- Docker
