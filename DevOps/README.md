@@ -1,4 +1,4 @@
-![1]("C:\Users\2022-PC(T)-49\Downloads\a.png")
+![1]("C:\Users\2022-PC(T)-49\skt-fly-ai-challenger-class\DevOps\a.png")
 ## Git
 - Git 개발환경 설치
 - Git 시작하기
