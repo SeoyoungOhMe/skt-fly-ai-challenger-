@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../chap04"
+		},
+		{
+			"path": "../chap05"
+		},
+		{
+			"path": "../chap06"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../chap08"
+		},
+		{
+			"path": "../바탕 화면/OpenCV/프로젝트2_문자인식_샘플코드"
+		}
+	],
+	"settings": {}
+}
