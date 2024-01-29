@@ -25,12 +25,29 @@
 
 ## DevOps
 [DevOps](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/DevOps)
-- 24.1.8 ~ 24.1.9
-- Git
-- GitHub
-- Jenkins
-- Docker
+- 24.1.8 ~ 24.1.19
+- Git, GitHub
+- Jenkins, Docker
+- MS Azure
+- MLflow, VNet, VMSS, LB
+- WordPress
 
-## Cloud Service
-[Cloud](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/Cloud)
-- 24.1.11 ~ 24.1.19
+## OpenCV
+[OpenCV](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/OpenCV)
+- 24.1.22 ~ 24.1.24
+- OpenCV 기본행렬 연산
+- 화소처리
+- 회선처리
+- 동적 비전
+- 기하학 처리
+
+## AI융합프로그래밍
+[AI](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/AI)
+- 24.1.24 ~ 24.1.26
+- 자연어처리
+- 파이토치
+- 합성곱 신경망
+
+## ChatBot Programming
+
+## AI Modeling
