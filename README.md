@@ -25,8 +25,12 @@
 
 ## DevOps
 [DevOps](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/DevOps)
-- 24.1.8 ~ 
+- 24.1.8 ~ 24.1.9
 - Git
 - GitHub
 - Jenkins
 - Docker
+
+## Cloud Service
+[Cloud](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/Cloud)
+- 24.1.11 ~ 24.1.19
