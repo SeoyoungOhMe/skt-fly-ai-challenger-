@@ -49,5 +49,7 @@
 - 합성곱 신경망
 
 ## ChatBot Programming
+[ChatBot](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/ChatBot)
+- 24.1.24 ~ 24.1.26
 
 ## AI Modeling
