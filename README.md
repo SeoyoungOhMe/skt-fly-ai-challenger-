@@ -50,6 +50,6 @@
 
 ## ChatBot Programming
 [ChatBot](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/ChatBot)
-- 24.1.24 ~ 24.1.26
+- 24.1.29 ~ 24.1.31
 
 ## AI Modeling
