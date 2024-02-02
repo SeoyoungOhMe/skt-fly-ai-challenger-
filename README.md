@@ -51,6 +51,9 @@
 ## ChatBot Programming
 [ChatBot](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/ChatBot)
 - 24.1.29 ~ 24.1.31
+- ChatGPT, OpenAI API
+- 챗봇, 토크나이징, 임베딩, 희소 표현과 분산표현, Word2Vec
+- 개체명 인식(양방향 LSTM 모델), 챗봇 엔진 만들기
 
 ## AI Modeling
 [AIModeling](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/AIModeling)
