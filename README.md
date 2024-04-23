@@ -58,6 +58,7 @@
 ## ⚛️ AI Modeling
 [AIModeling](https://github.com/SeoyoungOhMe/skt-fly-ai-challenger-class/tree/master/AIModeling)
 - 24.1.31 ~ 24.2.2
-
+- LLM
+- Document Loader, Splitter, Embeddings, Vector Store, Retrieval
 
 
